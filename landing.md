@@ -52,7 +52,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Unbeatable TIC-TAC-TOE/h3>
+					<h3>Unbeatable TIC-TAC-TOE</h3>
 				</header>
 				<p>This player vs computer kind of game is a GUI based implementation of the classic
 					tic-tac-toe. The computer uses artificial intelligence algorithms to predict
