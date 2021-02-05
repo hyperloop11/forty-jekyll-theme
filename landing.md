@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Projects
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'I am skilled in Python and C++.<br />My projects feature web development, game development and AI.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,14 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Flask BLog</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>A blog in flask backend micro framework. It has login and registration features, creating blogs and
+		markdown editing capacity.</p>
+		<p>Technology Used: Flask, HTML/CSS, Bootstrap</p>
+		<ul class="actions">
+					<li><a href="#" class="button">View Code</a></li>
+				</ul>
 	</div>
 </section>
 
@@ -28,9 +33,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Progress Tracking Website</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This website helps work on collaborative projects by creating issues, adding
+					comments and prioritizing projects. It has visual dispaly of progress 
+					using dynamic charts and instant notifications which increase productivity.</p>
+				<p>Technology Used: Django, Javascript, HTML/CSS, Bootstrap</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -44,9 +52,13 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Unbeatable TIC-TAC-TOE/h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This player vs computer kind of game is a GUI based implementation of the classic
+					tic-tac-toe. The computer uses artificial intelligence algorithms to predict
+					the next best move for the computer.</p>
+				<p>Technology used: Python, pygame, algorithms for creating AI (minimax algorithm 
+					and alpha-beta pruning.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
