@@ -21,7 +21,7 @@ nav-menu: true
 			<p>Technology used: Python, pygame, algorithms for creating AI (minimax algorithm 
 				and alpha-beta pruning.</p>
 			<ul class="actions">
-				<li><a href="generic.html" class="button">View Code</a></li>
+				<li><a href="https://github.com/hyperloop11/Unbeatable-TIC-TAC-TOE" class="button">View Code</a></li>
 			</ul>
 	</div>
 </section>
@@ -42,19 +42,19 @@ nav-menu: true
 					using dynamic charts and instant notifications which increase productivity.</p>
 				<p>Technology Used: Django, Javascript, HTML/CSS, Bootstrap</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">View Code</a></li>
+					<li><a href="https://github.com/hyperloop11/Progress-tracking-website" class="button">View Code</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-			<h2>Flask BLog</h2>
+			<h3>Flask Blog</h3>
 		</header>
 		<p>A blog in flask backend micro framework. It has login and registration features, creating blogs and
 		markdown editing capacity.</p>
@@ -78,7 +78,7 @@ nav-menu: true
 				to an email id with this file as attachment, later it destroys the file.</p>
 				<p>Technology used: Pyhton, multi-threading</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">View Code</a></li>
+					<li><a href="https://github.com/hyperloop11/Keylogger" class="button">View Code</a></li>
 				</ul>
 			</div>
 		</div>
@@ -95,7 +95,7 @@ nav-menu: true
 				<p>This short script reads e-mail addresses from a spreadsheet and sends mass emails with attachments. </p>
 				<p>Technology used: Python</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">View Code</a></li>
+					<li><a href="https://github.com/hyperloop11/FastEmail" class="button">View Code</a></li>
 				</ul>
 			</div>
 		</div>
@@ -106,9 +106,10 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Experience and Education</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p> I am a sophomore at Indian Institute of Technology (Indian School of Mines) Dhanbad. I have worked in Backend
+		Web Development. </p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
