@@ -23,7 +23,6 @@ nav-menu: true
 			<ul class="actions">
 				<li><a href="generic.html" class="button">View Code</a></li>
 			</ul>
-		
 	</div>
 </section>
 
