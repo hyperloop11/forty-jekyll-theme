@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: About Me
 nav-menu: true
 ---
 
@@ -11,12 +11,63 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About Me</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Skills</h2>
+<hr>
+<h3> STRONG</h3>
+<ul class="actions fit">
+	<li><a href="#" class="button fit">Pyhon</a></li>
+	<li><a href="#" class="button fit">Django Framework</a></li>
+	<li><a href="#" class="button fit">Pygame</a></li>
+</ul>
+<h3>INTERMEDIATE</h3>
+<ul class="actions fit">
+	<li><a href="#" class="button fit">C++</a></li>
+	<li><a href="#" class="button fit">Flask</a></li>
+	<li><a href="#" class="button fit">HTML</a></li>
+	<li><a href="#" class="button fit">Git</a></li>
+</ul>
+<h3>BEGINNER</h3>
+<ul class="actions fit">
+	<li><a href="#" class="button fit">CSS</a></li>
+	<li><a href="#" class="button fit">Javascript</a></li>
+</ul>
+<h3>OPERATING SYSTEMS</h3>
+<ul class="actions fit">
+	<li><a href="#" class="button fit">Ubuntu</a></li>
+	<li><a href="#" class="button fit">Kali Linux</a></li>
+	<li><a href="#" class="button fit">Windows</a></li>
+</ul>
+<br>
+<h2 id="content">Achievements</h2>
+<hr>
+<h4>Fall Fest Hackathon: First Runner Up Team</h4>
+<p>Part of a team hackathon, organized by ACM IIT Dhanbad Student Chapter, which won the second position in Fall Fest hackathon. Our team of four members worked on a food inventory maangememt and tracking system. I worked on the blockchain part of the project, used to create additional food security and tracking.</p>
+<br>
+<h4>Winter of Code: First Runner Up</h4>
+<p>Winter of code was  organized by Cyberlabs, the official coding Club of IIT Dhanbad. I won the second position in the Infosec Division of the hackathon. THe project was a keylogger, a remote keystroke recording device.</p>
+<br>
+<h4>3 minutes to sell: First runner Up</h4>
+<p>Won second postion in a product marketing competition organized by E-Cell, IIT Dhanbad.</p>
+<br>
+<h4>Blueprint: Winning team</h4>
+<p>Was a part of the winning team in Blueprint, an event organizing and marketing competition. It was orgamized by Society of Petrolum Engineers Studenet Chapter, IIT Dhanbad.</p>
+<br>
+<h4>Science Olympiad 2015: International Rank 250</h4>
+<p>Recieved an International Rank of 250 in Science Olympiad by SOF in Ninth Grade.</p>
+<hr>
+
+<h2 id="content">College Clubs and Extracurriculars</h2>
+<ul>
+	<li>Memeber of Information Security Division, Cyberlabs (Official Coding Club)</li>
+	<li>Member of Technical Team, E-Cell (Official Entreprenurship Club)</li>
+	<li>Member of Sponsership Team, ACM Student Chapter</li>
+	<li>Public Speaking</li>
+	<li>Painting</li>
+</ul>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
