@@ -17,13 +17,13 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Skills</h2>
 <hr>
-<h3> STRONG</h3>
+<center><h3> STRONG</h3></center>
 <ul class="actions fit">
 	<li><a href="#" class="button fit">Pyhon</a></li>
 	<li><a href="#" class="button fit">Django Framework</a></li>
 	<li><a href="#" class="button fit">Pygame</a></li>
 </ul>
-<h3>INTERMEDIATE</h3>
+<center><h3>INTERMEDIATE</h3></center>
 <ul class="actions fit">
 	<li><a href="#" class="button fit">C++</a></li>
 	<li><a href="#" class="button fit">Flask</a></li>
