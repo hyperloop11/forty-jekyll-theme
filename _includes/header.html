@@ -12,16 +12,10 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
+		<li><a href="https://hyperloop11.github.io/Shirin-Kaul/">Home</a></li>
+		<li><a href="https://hyperloop11.github.io/Shirin-Kaul/elements.html">About me</a></li>
+		<li><a href="https://hyperloop11.github.io/Shirin-Kaul/generic.html">Education and experience</a></li>
+		<li><a href="https://hyperloop11.github.io/Shirin-Kaul/landing.html">Projects</a></li>
 	</ul>
 	
 </nav>
