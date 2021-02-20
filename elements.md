@@ -18,16 +18,19 @@ nav-menu: true
 <p>
 	I am a software developer. My aim, whatever I do, is to achieve excellence and perfection in my work. I am currently in Second Year at IIT Dhanbad. I love participating in hackathons, transforming ideas in software and learning new technologies, languages and tools.
 </p>
-<br>
-<br>
+<hr>
 <center>
 <ul class="icons">
-	<li><a href="#" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
-	<li><a href="#" class="icon alt fa-github"><span class="label">Github</span></a></li>
-	<li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+	<li><a href="shirin.kaul11@gmail.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+	<li><a href="https://hyperloop11.github.io/MyBlog/" class="icon alt fa-link"><span class="label">Blog</span></a></li>
+	<li><a href="https://github.com/hyperloop11" class="icon alt fa-github"><span class="label">Github</span></a></li>
+	<li><a href="https://www.linkedin.com/in/shirin-kaul-b09282190" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
 </ul>
 </center>
 <br>
+<ul class="actions">
+	<center><li><a href="https://drive.google.com/file/d/1sDnqcFto854xUhV5JmfiJQ8AFOZYNVcz/view?usp=sharing" class="button big">Download Resume</a></li></center>
+</ul>
 <br>
 <h2 id="content">SKILLS</h2>
 <hr>
