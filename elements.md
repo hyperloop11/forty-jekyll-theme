@@ -21,7 +21,7 @@ nav-menu: true
 <hr>
 <center>
 <ul class="icons">
-	<li><a href="shirin.kaul11@gmail.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+	<li><a href="mailto:shirin.kaul11@gmail.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
 	<li><a href="https://hyperloop11.github.io/MyBlog/" class="icon alt fa-link"><span class="label">Blog</span></a></li>
 	<li><a href="https://github.com/hyperloop11" class="icon alt fa-github"><span class="label">Github</span></a></li>
 	<li><a href="https://www.linkedin.com/in/shirin-kaul-b09282190" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
