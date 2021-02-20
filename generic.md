@@ -2,7 +2,7 @@
 layout: post
 title: Education and Experience
 description: 
-image: assets/images/pic11.jpg
+image: https://images.theconversation.com/files/291347/original/file-20190906-175668-1jj8inb.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip
 nav-menu: true
 ---
 
