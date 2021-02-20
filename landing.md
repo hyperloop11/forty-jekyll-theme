@@ -18,8 +18,36 @@ nav-menu: true
 			<p>This player vs computer kind of game is a GUI based implementation of the classic
 				tic-tac-toe. The computer uses artificial intelligence algorithms to predict
 				the next best move for the computer.</p>
-			<p>Technology used: Python, pygame, algorithms for creating AI (minimax algorithm 
-				and alpha-beta pruning.</p>
+			<p>Technology used:</p>
+		<ul class="actions">
+				<li><a href="#" class="button special small">Python</a></li>
+				<li><a href="#" class="button special small">Pygame</a></li>
+				<li><a href="#" class="button special small">AI</a></li>
+			<li><a href="#" class="button special small">Minimax algorithm</a></li>
+			<li><a href="#" class="button special small"></a>Alpha-beta pruning</li>	
+		</ul>
+			<ul class="actions">
+				<li><a href="https://github.com/hyperloop11/Unbeatable-TIC-TAC-TOE" class="button">View Code</a></li>
+			</ul>
+	</div>
+</section>
+
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h3>Unbeatable TIC-TAC-TOE</h3>
+				</header>
+			<p>This player vs computer kind of game is a GUI based implementation of the classic
+				tic-tac-toe. The computer uses artificial intelligence algorithms to predict
+				the next best move for the computer.</p>
+			<p>Technology used:</p>
+		<ul class="actions">
+				<li><a href="#" class="button special small">Python</a></li>
+				<li><a href="#" class="button special small">Pygame</a></li>
+				<li><a href="#" class="button special small">AI</a></li>
+			<li><a href="#" class="button special small">Minimax algorithm</a></li>
+			<li><a href="#" class="button special small"></a>Alpha-beta pruning</li>	
+		</ul>
 			<ul class="actions">
 				<li><a href="https://github.com/hyperloop11/Unbeatable-TIC-TAC-TOE" class="button">View Code</a></li>
 			</ul>
@@ -40,7 +68,13 @@ nav-menu: true
 				<p>This website helps work on collaborative projects by creating issues, adding
 					comments and prioritizing projects. It has visual dispaly of progress 
 					using dynamic charts and instant notifications which increase productivity.</p>
-				<p>Technology Used: Django, Javascript, HTML/CSS, Bootstrap</p>
+				<p>Technology Used:</p>
+		<ul class="actions">
+				<li><a href="#" class="button special small">Django</a></li>
+				<li><a href="#" class="button special small">Javascript</a></li>
+				<li><a href="#" class="button special small">HTML/CSS</a></li>
+				<li><a href="#" class="button special small">Bootstrap</a></li>
+		</ul>
 				<ul class="actions">
 					<li><a href="https://github.com/hyperloop11/Progress-tracking-website" class="button">View Code</a></li>
 				</ul>
@@ -54,11 +88,16 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-			<h3>Flask Blog</h3>
-		</header>
+					<h3>Flask Blog</h3>
+				</header>
 		<p>A blog in flask backend micro framework. It has login and registration features, creating blogs and
 		markdown editing capacity.</p>
-		<p>Technology Used: Flask, HTML/CSS, Bootstrap</p>
+		<p>Technology Used:</p>
+		<ul class="actions">
+				<li><a href="#" class="button special small">Flask</a></li>
+				<li><a href="#" class="button special small">HTML/CSS</a></li>
+				<li><a href="#" class="button special small">Bootstrap</a></li>	
+		</ul>
 		<ul class="actions">
 					<li><a href="https://github.com/hyperloop11/flask-blog" class="button">View Code</a></li>
 				</ul>
@@ -76,7 +115,11 @@ nav-menu: true
 				</header>
 				<p>This project records keystrokes on a computer creates a temporary file with the keystrokes and sends an email
 				to an email id with this file as attachment, later it destroys the file.</p>
-				<p>Technology used: Pyhton, multi-threading</p>
+				<p>Technology used:</p>
+				<ul class="actions">
+				<li><a href="#" class="button special small">Python</a></li>
+				<li><a href="#" class="button special small">Multi-threading</a></li>	
+		</ul>
 				<ul class="actions">
 					<li><a href="https://github.com/hyperloop11/Keylogger" class="button">View Code</a></li>
 				</ul>
@@ -93,7 +136,10 @@ nav-menu: true
 					<h3>FastMail</h3>
 				</header>
 				<p>This short script reads e-mail addresses from a spreadsheet and sends mass emails with attachments. </p>
-				<p>Technology used: Python</p>
+				<p>Technology used</p>
+				<ul class="actions">
+				<li><a href="#" class="button special small">Python</a></li>	
+		</ul>
 				<ul class="actions">
 					<li><a href="https://github.com/hyperloop11/FastEmail" class="button">View Code</a></li>
 				</ul>
