@@ -24,29 +24,7 @@ nav-menu: true
 				<li><a href="#" class="button special small">Pygame</a></li>
 				<li><a href="#" class="button special small">AI</a></li>
 			<li><a href="#" class="button special small">Minimax algorithm</a></li>
-			<li><a href="#" class="button special small"></a>Alpha-beta pruning</li>	
-		</ul>
-			<ul class="actions">
-				<li><a href="https://github.com/hyperloop11/Unbeatable-TIC-TAC-TOE" class="button">View Code</a></li>
-			</ul>
-	</div>
-</section>
-
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h3>Unbeatable TIC-TAC-TOE</h3>
-				</header>
-			<p>This player vs computer kind of game is a GUI based implementation of the classic
-				tic-tac-toe. The computer uses artificial intelligence algorithms to predict
-				the next best move for the computer.</p>
-			<p>Technology used:</p>
-		<ul class="actions">
-				<li><a href="#" class="button special small">Python</a></li>
-				<li><a href="#" class="button special small">Pygame</a></li>
-				<li><a href="#" class="button special small">AI</a></li>
-			<li><a href="#" class="button special small">Minimax algorithm</a></li>
-			<li><a href="#" class="button special small"></a>Alpha-beta pruning</li>	
+			<li><a href="#" class="button special small">Alpha-beta pruning</a></li>	
 		</ul>
 			<ul class="actions">
 				<li><a href="https://github.com/hyperloop11/Unbeatable-TIC-TAC-TOE" class="button">View Code</a></li>
@@ -81,6 +59,8 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+</section>
+<section id="one">
 	<section >
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
@@ -104,6 +84,8 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+</section>
+<section id="two">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
@@ -126,6 +108,8 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+</section>
+<section id="one">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
