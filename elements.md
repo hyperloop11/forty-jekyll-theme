@@ -19,9 +19,11 @@ nav-menu: true
 <hr>
 <center><h3> STRONG</h3></center>
 <ul class="actions">
-	<li><a href="#" class="button special">Pyhon</a></li>
+	<center><li><a href="#" class="button special">Pyhon</a></li></center>
+	<br>
 	<br>
 	<li><a href="#" class="button special">Django Framework</a></li>
+	<br>
 	<br>
 	<li><a href="#" class="button special">Pygame</a></li>
 </ul>
