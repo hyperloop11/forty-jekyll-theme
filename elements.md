@@ -15,38 +15,57 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Skills</h2>
+<p>
+	I am a software developer. My aim, whatever I do, is to achieve excellence and perfection in my work. I am currently in Second Year at IIT Dhanbad. I love participating in hackathons, transforming ideas in software and learning new technologies, languages and tools.
+</p>
+<br>
+<br>
+<ul class="icons">
+			<center><li><a href="#" class="icon alt fa-email"><span class="label">Email</span></a></li></center>
+			<center><li><a href="#" class="icon alt fa-github"><span class="label">Github</span></a></li></center>
+			<center><li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li></center>
+</ul>
+<br>
+<br>
+<h2 id="content">SKILLS</h2>
 <hr>
-<center><h3> STRONG</h3></center>
+<center><h3>Strong</h3></center>
 <ul class="actions">
 	<center><li><a href="#" class="button special">Pyhon</a></li></center>
 	<br>
 	<br>
-	<li><a href="#" class="button special">Django Framework</a></li>
+	<center><li><a href="#" class="button special">Django Framework</a></li></center>
 	<br>
 	<br>
-	<li><a href="#" class="button special">Pygame</a></li>
+	<center><li><a href="#" class="button special">Pygame</a></li></center>
 </ul>
-<center><h3>INTERMEDIATE</h3></center>
+<hr>
+<center><h3>Intermediate</h3></center>
 <ul class="actions">
-	<li><a href="#" class="button special">C++</a></li>
-	<li><a href="#" class="button special">Flask</a></li>
-	<li><a href="#" class="button special">HTML</a></li>
-	<li><a href="#" class="button special">Git</a></li>
+	<center><li><a href="#" class="button special">C++</a></li></center>
+	<br><br>
+	<center><li><a href="#" class="button special">Flask</a></li></center>
+	<br><br>
+	<center><li><a href="#" class="button special">HTML</a></li></center>
+	<br><br>
+	<center><li><a href="#" class="button special">Git</a></li></center>
 </ul>
-<center><h3>BEGINNER</h3></center>
+<center><h3>Beginner</h3></center>
 <ul class="actions">
-	<li><a href="#" class="button special">CSS</a></li>
-	<li><a href="#" class="button special">Javascript</a></li>
+	<center><li><a href="#" class="button special">CSS</a></li></center>
+	<br><br>
+	<center><li><a href="#" class="button special">Javascript</a></li></center>
 </ul>
-<center><h3>OPERATING SYSTEMS</h3></center>
+<center><h3>Operating Systems</h3></center>
 <ul class="actions">
-	<li><a href="#" class="button special">Ubuntu</a></li>
-	<li><a href="#" class="button special">Kali Linux</a></li>
-	<li><a href="#" class="button special">Windows</a></li>
+	<center><li><a href="#" class="button special">Ubuntu</a></li></center>
+	<br><br>
+	<center><li><a href="#" class="button special">Kali Linux</a></li></center>
+	<br><br>
+	<center><li><a href="#" class="button special">Windows</a></li></center>
 </ul>
 <br>
-<h2 id="content">Achievements</h2>
+<h2 id="content">ACHIEVEMENTS</h2>
 <hr>
 <h4>Fall Fest Hackathon: First Runner Up Team</h4>
 <p>Part of a team hackathon, organized by ACM IIT Dhanbad Student Chapter, which won the second position in Fall Fest hackathon. Our team of four members worked on a food inventory maangememt and tracking system. I worked on the blockchain part of the project, used to create additional food security and tracking.</p>
@@ -64,7 +83,7 @@ nav-menu: true
 <p>Recieved an International Rank of 250 in Science Olympiad by SOF in Ninth Grade.</p>
 <hr>
 
-<h2 id="content">College Clubs and Extracurriculars</h2>
+<h2 id="content">COLLEGE CLUBS AND EXTRACURRICULARS</h2>
 <ul>
 	<li>Memeber of Information Security Division, Cyberlabs (Official Coding Club)</li>
 	<li>Member of Technical Team, E-Cell (Official Entreprenurship Club)</li>
