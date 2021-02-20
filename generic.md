@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Education and Experience
-description: Lorem ipsum dolor est
+description: 
 image: assets/images/pic11.jpg
-nav-menu: false
+nav-menu: true
 ---
 
 <h2> Experience </h2>
