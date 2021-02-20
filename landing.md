@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: 'I am skilled in Python and C++.<br />My projects feature web development, game development and AI.'
-image: assets/images/pic07.jpg
+image: https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
 nav-menu: true
 ---
 
