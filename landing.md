@@ -20,10 +20,10 @@ nav-menu: true
 				the next best move for the computer.</p>
 			<p>Technology used:</p>
 		<ul class="actions">
-				<li><a href="#" class="button special small">Python</a></li>
-				<li><a href="#" class="button special small">Pygame</a></li>
-				<li><a href="#" class="button special small">AI</a></li>
-			<li><a href="#" class="button special small">Minimax algorithm</a></li>
+				<li><a href="#" class="button special small">Python</a></li><br>
+				<li><a href="#" class="button special small">Pygame</a></li><br>
+				<li><a href="#" class="button special small">AI</a></li><br>
+			<li><a href="#" class="button special small">Minimax algorithm</a></li><br>
 			<li><a href="#" class="button special small">Alpha-beta pruning</a></li>	
 		</ul>
 			<ul class="actions">
