@@ -59,8 +59,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
-<section id="one">
 	<section >
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
@@ -84,8 +82,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
-<section id="two">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
@@ -108,8 +104,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
-<section id="one">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
@@ -120,7 +114,7 @@ nav-menu: true
 					<h3>FastMail</h3>
 				</header>
 				<p>This short script reads e-mail addresses from a spreadsheet and sends mass emails with attachments. </p>
-				<p>Technology used</p>
+				<p>Technology Used:</p>
 				<ul class="actions">
 				<li><a href="#" class="button special small">Python</a></li>	
 		</ul>
