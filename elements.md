@@ -18,11 +18,13 @@ nav-menu: true
 <h2 id="content">Skills</h2>
 <hr>
 <center><h3> STRONG</h3></center>
+<center>
 <ul class="actions fit">
 	<li><a href="#" class="button fit">Pyhon</a></li>
 	<li><a href="#" class="button fit">Django Framework</a></li>
 	<li><a href="#" class="button fit">Pygame</a></li>
 </ul>
+	</center>
 <center><h3>INTERMEDIATE</h3></center>
 <ul class="actions fit">
 	<li><a href="#" class="button fit">C++</a></li>
@@ -30,12 +32,12 @@ nav-menu: true
 	<li><a href="#" class="button fit">HTML</a></li>
 	<li><a href="#" class="button fit">Git</a></li>
 </ul>
-<h3>BEGINNER</h3>
+<center><h3>BEGINNER</h3></center>
 <ul class="actions fit">
 	<li><a href="#" class="button fit">CSS</a></li>
 	<li><a href="#" class="button fit">Javascript</a></li>
 </ul>
-<h3>OPERATING SYSTEMS</h3>
+<center><h3>OPERATING SYSTEMS</h3></center>
 <ul class="actions fit">
 	<li><a href="#" class="button fit">Ubuntu</a></li>
 	<li><a href="#" class="button fit">Kali Linux</a></li>
