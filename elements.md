@@ -18,30 +18,30 @@ nav-menu: true
 <h2 id="content">Skills</h2>
 <hr>
 <center><h3> STRONG</h3></center>
-<ul class="actions fit">
-	<li><a href="#" class="button fit">Pyhon</a></li>
+<ul class="actions">
+	<li><a href="#" class="button special">Pyhon</a></li>
 	<br>
-	<li><a href="#" class="button fit">Django Framework</a></li>
+	<li><a href="#" class="button special">Django Framework</a></li>
 	<br>
-	<li><a href="#" class="button fit">Pygame</a></li>
+	<li><a href="#" class="button special">Pygame</a></li>
 </ul>
 <center><h3>INTERMEDIATE</h3></center>
-<ul class="actions fit">
-	<li><a href="#" class="button fit">C++</a></li>
-	<li><a href="#" class="button fit">Flask</a></li>
-	<li><a href="#" class="button fit">HTML</a></li>
-	<li><a href="#" class="button fit">Git</a></li>
+<ul class="actions">
+	<li><a href="#" class="button special">C++</a></li>
+	<li><a href="#" class="button special">Flask</a></li>
+	<li><a href="#" class="button special">HTML</a></li>
+	<li><a href="#" class="button special">Git</a></li>
 </ul>
 <center><h3>BEGINNER</h3></center>
-<ul class="actions fit">
-	<li><a href="#" class="button fit">CSS</a></li>
-	<li><a href="#" class="button fit">Javascript</a></li>
+<ul class="actions">
+	<li><a href="#" class="button special">CSS</a></li>
+	<li><a href="#" class="button special">Javascript</a></li>
 </ul>
 <center><h3>OPERATING SYSTEMS</h3></center>
-<ul class="actions fit">
-	<li><a href="#" class="button fit">Ubuntu</a></li>
-	<li><a href="#" class="button fit">Kali Linux</a></li>
-	<li><a href="#" class="button fit">Windows</a></li>
+<ul class="actions">
+	<li><a href="#" class="button special">Ubuntu</a></li>
+	<li><a href="#" class="button special">Kali Linux</a></li>
+	<li><a href="#" class="button special">Windows</a></li>
 </ul>
 <br>
 <h2 id="content">Achievements</h2>
