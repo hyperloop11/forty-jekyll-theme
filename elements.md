@@ -46,6 +46,8 @@ nav-menu: true
 </ul>
 <center><h2><u>Intermediate</u></h2></center>
 <ul class="actions">
+	<center><li><a href="#" class="button special">C</a></li></center>
+	<br><br>
 	<center><li><a href="#" class="button special">C++</a></li></center>
 	<br><br>
 	<center><li><a href="#" class="button special">Flask</a></li></center>
@@ -59,6 +61,10 @@ nav-menu: true
 	<center><li><a href="#" class="button special">CSS</a></li></center>
 	<br><br>
 	<center><li><a href="#" class="button special">Javascript</a></li></center>
+	<br><br>
+	<center><li><a href="#" class="button special">Solidity</a></li></center>
+	<br><br>
+	<center><li><a href="#" class="button special">React</a></li></center>
 </ul>
 <center><h2><u>Operating Systems</u></h2></center>
 <ul class="actions">
