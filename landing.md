@@ -59,6 +59,34 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Supply Chain</h3>
+				</header>
+				<p>This website helps in supply chain management where users
+					can add products, warehouses scan shipments and end users
+					can find where their product comes from.
+					It stores data of each stage on an ethereum based blockchain.</p>
+				<p>Technology Used:</p>
+		<ul class="actions">
+				<li><a href="#" class="button special small">Solidity</a></li>
+				<li><a href="#" class="button special small">Truffle</a></li>
+				<li><a href="#" class="button special small">Ganache-CLI</a></li>
+				<li><a href="#" class="button special small">React</a></li>
+				<li><a href="#" class="button special small">Node</a></li>
+				<li><a href="#" class="button special small">HTML/CSS</a></li>
+		</ul>
+				<ul class="actions">
+					<li><a href="https://github.com/hyperloop11/Supply-Chain" class="button">View Code</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section >
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
