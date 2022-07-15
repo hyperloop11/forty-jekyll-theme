@@ -8,6 +8,34 @@ nav-menu: true
 
 <h2> Experience </h2>
 <hr>
+<h3>Microsoft, India - Software Engineering Intern </h3>
+<h4>May 2022 - July 2022</h4>
+<ul>
+ 	<li> As a part of Azure Edge and Platform  team, worked on internal website to debug failures across different products.</li>
+	<li>Displayed error logs from different points of failures in one consolidated website to improve debugging efficiency and deliver customer complaints. </li>
+	<li>Designed data flows and wrote Kusto queries to fetch error logs. </li>
+
+</ul>
+ <ul class="actions">
+  <li><a href="#" class="button special small">React</a></li>
+  <li><a href="#" class="button special small">Express JS</a></li>
+  <li><a href="#" class="button special small">Node JS</a></li>
+	<li><a href="#" class="button special small">KQL</a></li>
+</ul>
+
+<h3>Microsoft, India - Engage Program Mentee</h3>
+<h4>June 2021 - July 2021</h4>
+<ul>
+	<li> Used agile methodology to create a video calling website with calling upto 5 people.</li>
+	<li>A portal for people to create chat rooms with shareable IDs. </li>
+</ul>
+ <ul class="actions">
+	<li><a href="#" class="button special small">Express JS</a></li>
+  <li><a href="#" class="button special small"></a>Socket.io</li>
+	  <li><a href="#" class="button special small"></a>WebRTC</li>
+  <li><a href="#" class="button special small">HTML/CSSCSS</a></li>
+</ul>
+
 <h3>Society of Petroleum Engineers (IIT ISM Student Chapter) - Web Developer</h3>
 <h4>September 2020- December 2020</h4>
 <ul>
