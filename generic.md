@@ -22,7 +22,7 @@ nav-menu: true
   <li><a href="#" class="button special small">Node JS</a></li>
 	<li><a href="#" class="button special small">KQL</a></li>
 </ul>
-
+<hr>
 <h3>Microsoft, India - Engage Program Mentee</h3>
 <h4>June 2021 - July 2021</h4>
 <ul>
@@ -35,7 +35,7 @@ nav-menu: true
 	  <li><a href="#" class="button special small"></a>WebRTC</li>
   <li><a href="#" class="button special small">HTML/CSSCSS</a></li>
 </ul>
-
+<hr>
 <h3>Society of Petroleum Engineers (IIT ISM Student Chapter) - Web Developer</h3>
 <h4>September 2020- December 2020</h4>
 <ul>
