@@ -29,7 +29,7 @@ nav-menu: true
 </center>
 <br>
 <ul class="actions">
-	<center><li><a href="https://drive.google.com/file/d/1y2IJJrk4WlzBn7kH7p-yWwIxvuRvj6iR/view?usp=sharing" class="button big">Download Resume</a></li></center>
+	<center><li><a href="https://drive.google.com/file/d/1J3L8HLMnTHHgcicBL5i8DtB8vxmk17CK/view?usp=sharing" class="button big">View Resume</a></li></center>
 </ul>
 <br>
 <h2 id="content">SKILLS</h2>
@@ -103,7 +103,7 @@ nav-menu: true
 <ul>
 	<li>Memeber of Information Security Division, Cyberlabs (Official Coding Club)</li>
 	<li>Member of Technical Team, E-Cell (Official Entreprenurship Club)</li>
-	<li>Member of Sponsership Team, ACM Student Chapter</li>
+	<li>Member of Sponsorship Team, ACM Student Chapter</li>
 	<li>Public Speaking</li>
 	<li>Painting</li>
 </ul>
