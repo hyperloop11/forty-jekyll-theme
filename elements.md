@@ -16,7 +16,7 @@ nav-menu: true
 
 <!-- Content -->
 <p>
-	I am a software developer. My aim, whatever I do, is to achieve excellence and perfection in my work. I am currently in Second Year at IIT Dhanbad. I love participating in hackathons, transforming ideas in software and learning new technologies, languages and tools.
+	I am a software developer. My aim, whatever I do, is to achieve excellence and perfection in my work. I am currently in Final Year at IIT Dhanbad. I love participating in hackathons, transforming ideas in software and learning new technologies, languages and tools.
 </p>
 <hr>
 <center>
@@ -29,7 +29,7 @@ nav-menu: true
 </center>
 <br>
 <ul class="actions">
-	<center><li><a href="https://drive.google.com/file/d/1sDnqcFto854xUhV5JmfiJQ8AFOZYNVcz/view?usp=sharing" class="button big">Download Resume</a></li></center>
+	<center><li><a href="https://drive.google.com/file/d/1y2IJJrk4WlzBn7kH7p-yWwIxvuRvj6iR/view?usp=sharing" class="button big">Download Resume</a></li></center>
 </ul>
 <br>
 <h2 id="content">SKILLS</h2>
@@ -40,6 +40,9 @@ nav-menu: true
 	<br>
 	<br>
 	<center><li><a href="#" class="button special">Django Framework</a></li></center>
+	<br>
+	<br>
+	<center><li><a href="#" class="button special">React</a></li></center>
 	<br>
 	<br>
 	<center><li><a href="#" class="button special">Pygame</a></li></center>
@@ -64,7 +67,7 @@ nav-menu: true
 	<br><br>
 	<center><li><a href="#" class="button special">Solidity</a></li></center>
 	<br><br>
-	<center><li><a href="#" class="button special">React</a></li></center>
+	<center><li><a href="#" class="button special">Postman</a></li></center>
 </ul>
 <center><h2><u>Operating Systems</u></h2></center>
 <ul class="actions">
@@ -77,6 +80,9 @@ nav-menu: true
 <br>
 <h2 id="content">ACHIEVEMENTS</h2>
 <hr>
+		<h4>Samsung Innovation Award 2021-22: Finalist Team</h4>
+<p>Part of a team hackathon, organized by Samsubng, which made to the finals with only 7 other teams from across India. In synergy with that years theme Metaverse, our team of three members worked on a VR application which stimullates breathing exercises, healing chants and ambient music for an immersive yoga experience.</p>
+<br>
 <h4>Fall Fest Hackathon: First Runner Up Team</h4>
 <p>Part of a team hackathon, organized by ACM IIT Dhanbad Student Chapter, which won the second position in Fall Fest hackathon. Our team of four members worked on a food inventory maangememt and tracking system. I worked on the blockchain part of the project, used to create additional food security and tracking.</p>
 <br>
