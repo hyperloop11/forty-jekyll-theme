@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: 'I am skilled in Python and C++.<br />My projects feature web development, game development and AI.'
+description: 'I am skilled in Python, React and C++.<br />My projects feature web development, game development and AI.'
 image: https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
 nav-menu: true
 ---
@@ -159,8 +159,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Experience and Education</h2>
 		</header>
-		<p> I am a sophomore at Indian Institute of Technology (Indian School of Mines) Dhanbad. I have worked in Backend
-		Web Development. </p>
+		<p> I am a senior at Indian Institute of Technology (Indian School of Mines) Dhanbad. I have worked in Full Stack Web Development. </p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
